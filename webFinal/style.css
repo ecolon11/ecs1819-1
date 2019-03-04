@@ -5,12 +5,18 @@
   margin-right: auto;
   width: 50%;
 }
-.body { background-color:purple;}
+.body { background-color:white;}
 
 .carousel-control-next {
-  background-color: black;
+  background-color: blue;
 }
 
 .carousel-control-prev {
-  background-color: black;
+  background-color: blue;
+}
+
+.aboutme { font-size: x-large;}
+
+.sportimg { height: 300px;
+
 }

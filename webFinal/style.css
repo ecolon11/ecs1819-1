@@ -1,22 +1,38 @@
-.jumbotron { font-family: fantasy; background-color: Blue}
+.jumbotron-fluid { font-family: inherit; color: white;background-color: black; display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;} 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-.body { background-color:white;}
+body {
+ background-image: url("images/chitown.jpg");
+
+}
 
 .carousel-control-next {
-  background-color: blue;
+  background-color: grey;margin-top: 20px;
 }
 
 .carousel-control-prev {
-  background-color: blue;
+  background-color: grey;margin-top: 20px;
 }
 
-.aboutme { font-size: x-large;}
+.carousel-inner { margin-top: 20px;}
+
+.aboutme { font-size: x-large; color: white}
 
 .sportimg { height: 300px;
 
 }
+.card{
+  margin-left:10px;
+  margin-right:10px;
+  margin-top: 20px;
+}
+.container{ 
+  margin-top: 30px; }
+  
